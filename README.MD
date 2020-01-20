@@ -2,8 +2,6 @@
   <h1>Snippets to VSCode</h1>
 </div>
 
----
-
 ## Snippets
 
 1. [React functional component](https://gist.github.com/gthrm/134a2cf298bda27a039dfc2dcb4c01aa).
