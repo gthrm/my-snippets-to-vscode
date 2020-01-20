@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Snippets to VSCode</h1>
+  <h1>Snippets for VSCode</h1>
 </div>
 
 ## Snippets
