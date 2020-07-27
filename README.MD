@@ -9,6 +9,7 @@
 3. [Redux Ducks](https://gist.github.com/gthrm/fe0a5a8198d08641cd542a02ee9bb9ca).
 4. [Redux Constants](https://gist.github.com/gthrm/cbb1fdac9b7fb7361109b29f13c2b263)
 5. [Typescript React Function Component](https://gist.github.com/gthrm/a0b938c140da7358012d9bff4af68975)
+6. [Typescript Redux Ducks Saga](https://gist.github.com/gthrm/8eb72f75709dce0b8ed673a23a4385f1)
 
 ### Add to vscode
 
