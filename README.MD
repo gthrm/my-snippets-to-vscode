@@ -5,8 +5,8 @@
 ## Snippets
 
 1. [React Functional Component](https://gist.github.com/gthrm/134a2cf298bda27a039dfc2dcb4c01aa).
-2. [React Functional Component TS - dirname] (https://gist.github.com/gthrm/2f753c8211d2a864e0cfb2f45ca28ebb).
-3. [React Functional Component TS - filename] (https://gist.github.com/gthrm/a433b6cccae6ef1c78747397ddd08ea6).
+2. [React Functional Component TS - dirname](https://gist.github.com/gthrm/2f753c8211d2a864e0cfb2f45ca28ebb).
+3. [React Functional Component TS - filename](https://gist.github.com/gthrm/a433b6cccae6ef1c78747397ddd08ea6).
 4. [React Class Component](https://gist.github.com/gthrm/d70506dc97e4400486cfb3e96a724446).
 5. [Redux Ducks](https://gist.github.com/gthrm/fe0a5a8198d08641cd542a02ee9bb9ca).
 6. [Redux Constants](https://gist.github.com/gthrm/cbb1fdac9b7fb7361109b29f13c2b263)
